@@ -1,2 +1,2 @@
 use northwind;
-select * from categories;
+select * from categories where categoryid==5;
